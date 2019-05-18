@@ -17,5 +17,9 @@ used HW componentes are:
 Used SW components are:
 1. Python3.6
 2. The python evdev module
-3. 
+3. the python RPi.GPIO module 
+4. the python asyncio module
+5. the xpadneo driver for the xbox controller
 
+Installation and use see Wiki page.
+Have fun!
