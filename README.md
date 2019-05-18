@@ -1,7 +1,7 @@
 # raspberry-rc_car
 Software for a rc-car consisting of a 2-motors-3-wheel-platform, raspberry pi 3, motor control L293D, bluetooth xbox controller as remote control and an ultrasonic distance sensor
 
-The project is tested on a raspberry pi 3B, Kernel 4.14.98-v7+, System Raspbian GNU/Linux 9 (stretch).
+The project is tested on a raspberry pi 3B, Kernel 4.14.98-v7+, System Raspbian GNU/Linux 9 (stretch) and python3.6.
 
 The HW componentes are
 1. Raspberry Pi Modell 3B with necessary components like power supply and memory card
