@@ -1,4 +1,4 @@
-# raspberry-rc_car
+# Robot car with raspberry pi
 Software for a rc-car consisting of a 2-motors-3-wheel-platform, raspberry pi 3, motor control L293D, bluetooth xbox controller as remote control and an ultrasonic distance sensor
 
 The project is tested on a raspberry pi 3B, Kernel 4.14.98-v7+, System Raspbian GNU/Linux 9 (stretch) and python3.6.
