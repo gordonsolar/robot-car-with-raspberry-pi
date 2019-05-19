@@ -1,7 +1,7 @@
 # Robot car with raspberry pi
 Python modules to control a robot car consisting of a 2-motors-3-wheel-platform, raspberry pi 3, motor control IC L293D, xbox controller as remote control and an ultrasonic distance sensor.
 
-The software allows to controll direction and speed of the car. Asyncronuously the distance of the objects in front of the car is measured with the ultrasonic sensor. When the distance drops below a certain threshold, the xbox controller starts to rumble. Below the critical distance the car stops.
+The software allows to control direction and speed of the car. Asyncronuously the distance of the objects in front of the car is measured with the ultrasonic sensor. When the distance drops below a certain threshold, the xbox controller starts to rumble. Below the critical distance the car stops.
 
 ## used HW componentes are:
 1. Raspberry Pi Modell 3B with necessary components like power supply and memory card
