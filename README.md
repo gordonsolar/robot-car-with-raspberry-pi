@@ -20,3 +20,9 @@ The software allows to control direction and speed of the car. Asyncronuously th
 
 Installation, detailed description and use see Wiki page.
 Have fun!
+
+## Update 06/2020:
+
+I moved on to ai controlled robot cars with the jetson nano + camera - so this repository will not be updated any more
+
+Rest in peace :-)
